@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tugas_10_styling/HomeScreen.dart'; // Make sure to import HomeScreen
+import 'package:tugas11_navigate/HomeScreen.dart'; // Make sure to import HomeScreen
 
 class LoginScreen extends StatelessWidget {
   const LoginScreen({Key? key}) : super(key: key);
